@@ -4,7 +4,6 @@ import { router } from './router';
 import 'vant/lib/index.less';
 import '#/styles/reset.css';
 import { Button, Icon, Popup, Field, Steps, Step, Search, Grid, GridItem, Image, ImagePreview, List, Cell, Swipe, SwipeItem, Lazyload, Tabs, Tab, ShareSheet } from 'vant';
-
 Vue.use(Button)
 Vue.use(Icon)
 Vue.use(Popup)
